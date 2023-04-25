@@ -1,0 +1,9 @@
+.qrcode__box {
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    width: 300px;
+    border-radius: 12px;
+}

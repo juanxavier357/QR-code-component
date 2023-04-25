@@ -1,0 +1,30 @@
+@font-face {
+    font-family: Outfit-Regular-400;
+    src: url('../../../assets/fonts/Outfit-Regular-400.ttf');
+}
+
+@font-face {
+    font-family: Outfit-Regular-700;
+    src: url('../../../assets/fonts/Outfit-Regular-700.ttf');
+}
+
+.text__content {
+    margin: 0;
+    padding: 0;
+    gap: 10px;
+}
+
+.text__content--title {
+    font-size: 7px;
+    font-size: Outfit-Regular-700;
+    color: hsl(218, 44%, 22%);
+    text-align: center;
+}
+
+p {
+    font-size: 15px;
+    font-size: Outfit-Regular-400;
+    color: hsl(220, 15%, 55%);
+    text-align: center;
+    
+}
